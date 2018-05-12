@@ -1,0 +1,29 @@
+_repo: A-Yacht-Voyage-to-Norway-Denmark-and-Sweden2nd-edition_28073
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 28073-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Ross, William A.
+    alias: Ross, W. A. (William Andrew)
+    gutenberg_agent_id: '33123'
+    url: http://www.gutenberg.org/2009/agents/33123
+description: ''
+gutenberg_issued: '2009-02-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28073'
+  lccn: '05010406'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Scandinavia -- Description and travel'
+- !lcsh 'Yachting'
+- !lcc 'DL'
+title: 'A Yacht Voyage to Norway, Denmark, and Sweden
+
+  2nd edition'
+url: http://www.gutenberg.org/ebooks/28073
