@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '33123'
     url: http://www.gutenberg.org/2009/agents/33123
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28073#A-Yacht-Voyage-to-Norway-Denmark-and-Sweden2nd-edition
 gutenberg_issued: '2009-02-14'
 gutenberg_type: Text
 identifiers:
